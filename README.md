@@ -38,7 +38,7 @@ The application is built using a microservices architecture with the following c
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:aqibh25/multi-react-docker.git
    cd multi-react-docker
    ```
 
